@@ -38,3 +38,8 @@ h2 {
   background-color: black;
   color: white;
 }
+
+.iframe__map {
+  margin: 1rem 0rem;
+  padding-bottom: 1rem;
+}
